@@ -2,7 +2,7 @@
 
 💻 I'm Mariam, a data analyst living and working in Berlin<br>
 🧠 My background is in psychology, photography and specialty coffee<br>
-✍️ I'm currently working on [Vote](https://vote-coffee.com/)'s 2024 transparency report<br>
+✍️ I'm currently working on [Vote](https://vote-coffee.com/)'s 2024 [transparency report](https://www.transparency.coffee/pledge/)<br>
 
 
 ## 🌐 Socials:
